@@ -100,4 +100,5 @@ exit
 
 
 <img width="939" height="456" alt="Screenshot 2026-04-10 114718" src="https://github.com/user-attachments/assets/7f4a5efe-692c-415a-90df-eab0ffd3c789" />
+<img width="907" height="626" alt="Screenshot 2026-04-10 114728" src="https://github.com/user-attachments/assets/45af516b-98fd-45c0-884b-b2a6ed86a6f0" />
 
