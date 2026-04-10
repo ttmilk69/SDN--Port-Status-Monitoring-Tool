@@ -90,13 +90,10 @@ link s1 h2 up
 link s1 h3 down
 link s1 h3 up
 
-# STEP 9: (Optional) View flow table
-sudo ovs-ofctl dump-flows s1
-# Shows OpenFlow rules inside switch
 
-# STEP 10: Exit Mininet
+# STEP 9: Exit Mininet
 exit
 
-# STEP 11: Stop POX controller
+# STEP 10: Stop POX controller
 # Go to POX terminal and press:
 # Ctrl + C
