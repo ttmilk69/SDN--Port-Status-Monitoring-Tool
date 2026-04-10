@@ -97,3 +97,7 @@ exit
 # STEP 10: Stop POX controller
 # Go to POX terminal and press:
 # Ctrl + C
+
+
+<img width="939" height="456" alt="Screenshot 2026-04-10 114718" src="https://github.com/user-attachments/assets/7f4a5efe-692c-415a-90df-eab0ffd3c789" />
+
