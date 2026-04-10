@@ -1,13 +1,13 @@
-# 🚀 SDN Port Status Monitoring Tool (POX + Mininet)
+#  SDN Port Status Monitoring Tool (POX + Mininet)
 
-## 📌 Overview
+##  Overview
 This project implements a **Software Defined Networking (SDN)** based Port Status Monitoring Tool using **Mininet** and **POX Controller**.
 
 The system detects and logs **switch port status changes (UP/DOWN)** in real-time and demonstrates controller-switch interaction using OpenFlow.
 
 ---
 
-## 🎯 Objective
+##  Objective
 - Monitor switch port status dynamically
 - Detect port UP/DOWN events
 - Log and display alerts
@@ -15,7 +15,7 @@ The system detects and logs **switch port status changes (UP/DOWN)** in real-tim
 
 ---
 
-## 🧠 Key Concepts
+##  Key Concepts
 - Software Defined Networking (SDN)
 - OpenFlow Protocol
 - POX Controller
@@ -23,7 +23,7 @@ The system detects and logs **switch port status changes (UP/DOWN)** in real-tim
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 Mininet (Topology)  
 ⬇  
@@ -35,7 +35,7 @@ Port Monitoring Logic
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Mininet
 - POX Controller
@@ -43,7 +43,7 @@ Port Monitoring Logic
 
 ---
 
-## 🛠️ Commands Used
+##  Commands Used
 
 # ================================
 # SDN PORT MONITORING PROJECT RUN
